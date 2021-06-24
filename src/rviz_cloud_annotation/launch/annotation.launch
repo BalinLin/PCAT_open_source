@@ -12,7 +12,7 @@
     <param name="label_names_file_folder" type="string" value="$(env HOME)/lidar_annotation/_label/" />
     <param name="line_names_file_folder" type="string" value="$(env HOME)/lidar_annotation/_line/" />
 
-    <param name="label_size" type="double" value="0.2" />
+    <param name="label_size" type="double" value="0.5" />
     <param name="neigh_search_type" type="int" value="2" />
     <param name="neigh_search_params" type="string" value="10" />
 

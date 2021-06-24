@@ -1,4 +1,11 @@
 PCAT点云标注工具-使用手册
+https://www.twblogs.net/a/5ecb860fd18ae6a423c0dbbf
+```
+cd ~/Documents/PCAT_open_source
+sh install.sh
+sh ./tools/clear_annotation.sh
+sh run.sh
+```
 ---------------------
 
 - Demo项目，请自行魔改

@@ -22,7 +22,7 @@
 #define PARAM_DEFAULT_FRAME_ID "base_link"
 
 #define PARAM_NAME_POINT_SIZE "point_size"
-#define PARAM_DEFAULT_POINT_SIZE (0.05)
+#define PARAM_DEFAULT_POINT_SIZE (0.3)
 
 // size of the current label for each point
 #define PARAM_NAME_LABEL_SIZE "label_size"
